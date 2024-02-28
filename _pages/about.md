@@ -15,7 +15,7 @@ We are mainly engaged in the controlled preparation, luminescence regulation, me
 3. Low-dimensional halide perovskite materials.
 
 You can find my CV here:[Prof CHEN's Curriculum Vitael](../assets/Curriculum Vitae.pdf)
-[Email(mailto:XX@stu.pku.edu.cn) / [Github](https://chen-bing-1989.github.io/)
+[Email(mailto:bchen@njupt.edu.cn) / [Github](https://chen-bing-1989.github.io/)
 
 
 
